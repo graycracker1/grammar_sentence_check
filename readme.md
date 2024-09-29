@@ -27,3 +27,8 @@ This is a simple grammar-checking desktop application built with `tkinter`. The 
 4. Run the application:
     ```bash
     python grammar_check.py
+
+
+
+![Sample Output 2](./2.png)
+![Sample Output 3](./3.png)
