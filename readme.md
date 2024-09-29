@@ -18,7 +18,7 @@ This is a simple grammar-checking desktop application built with `tkinter`. The 
 
 2. Navigate to the project folder:
     ```bash
-    cd grammar-checker-app
+    cd python_grammar_check
 
 3. Install required libraries:
     ```bash
