@@ -26,4 +26,4 @@ This is a simple grammar-checking desktop application built with `tkinter`. The 
 
 4. Run the application:
     ```bash
-    python app.py
+    python grammar_check.py
