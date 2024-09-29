@@ -29,6 +29,7 @@ This is a simple grammar-checking desktop application built with `tkinter`. The 
     python grammar_check.py
 
 
+## Output
 
 ![Sample Output 2](./2.png)
 ![Sample Output 3](./3.png)
