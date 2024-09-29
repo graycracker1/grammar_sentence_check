@@ -14,7 +14,7 @@ This is a simple grammar-checking desktop application built with `tkinter`. The 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/grammar-checker-app.git
+   git clone https://github.com/graycracker1/python_grammar_check.git
 
 2. Navigate to the project folder:
     ```bash
